@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExamenHibernate_CarmenMartin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ExamenHibernate_CarmenMartin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ExamenHibernate_CarmenMartin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ExamenHibernate_CarmenMartin:war exploded" />
+    </root>
+  </artifact>
+</component>
